@@ -1,5 +1,5 @@
 {
-  "name": "client",
+  "name": "client-chatgpt-model",
   "private": true,
   "version": "0.0.0",
   "type": "module",
