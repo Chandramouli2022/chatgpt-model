@@ -60,7 +60,7 @@ const Chat = () => {
           </div>
         </div>
         <div className='chat-box'>
-          <div className=''>
+          <div className='chat-messages'>
             {messages.map((msg, index) => (
               <div key={index} className={`message ${msg.sender}`}>
                 {msg.text}
